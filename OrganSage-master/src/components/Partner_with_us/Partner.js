@@ -11,8 +11,8 @@ function Partner() {
                     <center>
                         <div style={{ marginBottom: '1rem' }} className="ourClass">
                             <p>
-                                Address: Pratap Building, Connaught Place, New Delhi, India<br />
-                                Phone: +1 123-456-7890<br />
+                                Address: Kasturi Building, Pelamedu, Coimbatore, Tamil Nadu, India<br />
+                                Phone: +91 123-123-1234<br />
                                 Email: organ@ngo.com
                             </p>
                         </div>
